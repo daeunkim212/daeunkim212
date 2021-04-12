@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daeun Kim (DD).
 - 👀 I’m interested in UI/UX Designing and running my own business.
-- 🌱 I’m currently Data Distribution Service.
+- 🌱 I’m currently making Data Distribution Service Tool using Nuklear GUI in C.
 - 📫 How to reach me via email : daeunkim212@gmail.com
 
 <!---
